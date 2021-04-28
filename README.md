@@ -516,9 +516,3 @@ Lyssna efter ett ```click``` event på samtliga ```li``` i följande lista. Vid 
     <summary>hint</summary>
     här är "keyup"-eventet väldigt användbart.
 </details>
-
-
-# Formulär inför extrapass
-Följande formulär är till för att ge mig ( Johan ) en uppfattning om vad ni tycker är svårt och vad vi behöver repetera / fördjupa oss i under de extrapass som till tillgängliga.
-
-https://forms.gle/acDeen8oKFKBGzjj7
